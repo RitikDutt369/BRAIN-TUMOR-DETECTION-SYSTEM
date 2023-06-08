@@ -19,4 +19,6 @@ Furthermore, it can be used as a convenient diagnostic system in clinical settin
 reduce the diagnosis time significantly. The results of this work suggest that the proposed system 
 can be used as a reliable tool for automated detection of brain tumors. It has potential implications 
 in medical diagnosis and could help in early identification of brain tumors.
-Dataset - href{https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection}
+
+
+Dataset - https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
