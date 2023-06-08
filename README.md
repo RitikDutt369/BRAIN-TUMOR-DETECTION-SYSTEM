@@ -23,6 +23,6 @@ in medical diagnosis and could help in early identification of brain tumors.
 
 Dataset - https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
-![alt text](https://drive.google.com/drive/u/0/folders/18G7MHBuoKy5MoIT8_P-jdltJFf1vPUcr)
+![Quick view of Interface]()
 
 
