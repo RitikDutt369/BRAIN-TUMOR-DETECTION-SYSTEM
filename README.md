@@ -1,6 +1,5 @@
 # Brain Tumor Detection System using Deep Learning
-![Alt Project View](https://github.com/RitikDutt369/BRAIN-TUMOR-DETECTION-SYSTEM/blob/main/Screenshot%20(111).png)
-![Project View](https://github.com/RitikDutt369/BRAIN-TUMOR-DETECTION-SYSTEM/blob/main/Screenshot%20(111).png)
+![Project View](https://drive.google.com/file/d/1IweefrHVf43DkLpx0IjiV6gydjNDgje1/view?usp=sharing)
 
 This repository contains the code and resources for the implementation of a Brain Tumor Detection System using Deep Learning. The system is based on a Sequential CNN (Convolutional Neural Network) model trained on a dataset of brain tumor images.
 
